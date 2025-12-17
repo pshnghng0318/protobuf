@@ -683,8 +683,11 @@ Source file: `shared/enums.proto <https://github.com/CARTAvis/carta-protobuf/blo
    * - MIRIAD
      - 5
      - 
-   * - UNKNOWN
+   * - ZARR
      - 6
+     - 
+   * - UNKNOWN
+     - 7
      - 
 
 .. carta:class:: carta-sub fittingsolvertype
